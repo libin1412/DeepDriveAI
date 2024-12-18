@@ -25,7 +25,7 @@
 
 Conducted image classification tasks using the CIFAR-10 and MNIST datasets, leveraging convolutional neural networks (CNNs) implemented in TensorFlow. Developed preprocessing pipelines for data augmentation and normalization using OpenCV and Python, improving classification accuracy and model robustness. Explored the application of transfer learning techniques to optimize training efficiency and scalability.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/assets/app_pic.jpg)
 
 ###  Probability-Based Navigation and Control
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
@@ -34,7 +34,7 @@ Conducted image classification tasks using the CIFAR-10 and MNIST datasets, leve
 - Enhanced decision-making algorithms with uncertainty modeling.
 - Combined probabilistic reasoning with control logic for real-world applications.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](/assets/coupler.PNG)
 
 ###  Simulating a Self-Driving Robot in Gazebo
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
@@ -43,7 +43,6 @@ Conducted image classification tasks using the CIFAR-10 and MNIST datasets, leve
 - Tested odometry, localization, and path-planning algorithms under various virtual conditions.
 - Integrated digital twins for real-world deployment simulations.
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)

@@ -2,7 +2,7 @@
 
 #### Technical Skills
 #### Programming Languages: Python, C++, MATLAB/Simulink
-#### AI & Machine Learning: TensorFlow, Keras, OpenCV
+#### AI & Machine Learning: TensorFlow, Keras, OpenCV, ROS
 #### Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn
 #### CAE Tools: ANSYS, Madymo, CATIA V5
 #### Version Control & Tools:GitHub, Jupyter Notebook, Replit
